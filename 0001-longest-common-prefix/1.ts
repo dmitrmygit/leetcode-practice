@@ -1,3 +1,5 @@
+export {};
+
 function longestCommonPrefix(strs: string[]): string {
     let res = '';
     if (strs.length === 0) return res;
