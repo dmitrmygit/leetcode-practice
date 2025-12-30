@@ -1,3 +1,5 @@
+export {};
+
 function searchInsert(nums: number[], target: number): number {
     return searchInsertPrivate(nums, target, 0, nums.length - 1);
 }
