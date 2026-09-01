@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "run": "tsc -p tsconfig.json"
+    "build": "tsc -p tsconfig.json"
   },
   "devDependencies": {
     "typescript": "5.9.3"
