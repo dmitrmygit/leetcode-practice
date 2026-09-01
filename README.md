@@ -124,7 +124,6 @@ The practice plan is organized by **core algorithmic patterns**, progressing fro
 
 **Hard (optional)**
 - Shortest Path in Binary Matrix
-- Alien Dictionary
 
 ---
 
